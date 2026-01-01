@@ -1,1 +1,1 @@
-A curated collection of major cryptocurrency hacking incidents, including timelines, stolen amounts, technical root causes, on‑chain evidence, and reference links. This repository is intended for researchers, builders, and risk managers to study security vulnerabilities and improve defenses across the crypto ecosystem.
+整理历年来主要的加密货币黑客事件，包括时间线、损失金额、技术成因、链上证据和参考链接。希望为研究者、开发者和风控人员提供一个了解安全漏洞、复盘攻击手法、提升防护意识的资料库。
