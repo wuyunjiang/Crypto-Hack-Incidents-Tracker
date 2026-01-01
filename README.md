@@ -1,0 +1,1 @@
+A curated collection of major cryptocurrency hacking incidents, including timelines, stolen amounts, technical root causes, on‑chain evidence, and reference links. This repository is intended for researchers, builders, and risk managers to study security vulnerabilities and improve defenses across the crypto ecosystem.
